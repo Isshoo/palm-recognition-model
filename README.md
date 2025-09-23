@@ -1,1 +1,1 @@
-# palm-recognition-model
+Model machine learning untuk mendeteksi telapak tangan
